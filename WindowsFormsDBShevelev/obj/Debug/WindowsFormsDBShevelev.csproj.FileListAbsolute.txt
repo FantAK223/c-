@@ -1,0 +1,55 @@
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\bin\Debug\WindowsFormsDBShevelev.exe.config
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\bin\Debug\WindowsFormsDBShevelev.exe
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\bin\Debug\WindowsFormsDBShevelev.pdb
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.csprojAssemblyReference.cache
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form1.resources
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Properties.Resources.resources
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.csproj.GenerateResource.cache
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.csproj.CoreCompileInputs.cache
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.exe
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.pdb
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form2.resources
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form3.resources
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form4.resources
+E:\6 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form5.resources
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\bin\Debug\WindowsFormsDBShevelev.exe.config
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\bin\Debug\WindowsFormsDBShevelev.exe
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\bin\Debug\WindowsFormsDBShevelev.pdb
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.csprojAssemblyReference.cache
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form1.resources
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form2.resources
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form3.resources
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form4.resources
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form5.resources
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Properties.Resources.resources
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.csproj.GenerateResource.cache
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.csproj.CoreCompileInputs.cache
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.exe
+E:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.pdb
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.csprojAssemblyReference.cache
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form1.resources
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form2.resources
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form3.resources
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form4.resources
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form5.resources
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Properties.Resources.resources
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.csproj.GenerateResource.cache
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.exe
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.pdb
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\bin\Debug\WindowsFormsDBShevelev.exe.config
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\bin\Debug\WindowsFormsDBShevelev.exe
+D:\3 курс 2 семестр\бд\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\bin\Debug\WindowsFormsDBShevelev.pdb
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\bin\Debug\WindowsFormsDBShevelev.exe.config
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\bin\Debug\WindowsFormsDBShevelev.exe
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\bin\Debug\WindowsFormsDBShevelev.pdb
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.csprojAssemblyReference.cache
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form1.resources
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form2.resources
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form3.resources
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form4.resources
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Form5.resources
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.Properties.Resources.resources
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.csproj.GenerateResource.cache
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.csproj.CoreCompileInputs.cache
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.exe
+H:\магазин\WindowsFormsDBShevelev\WindowsFormsDBShevelev\obj\Debug\WindowsFormsDBShevelev.pdb
